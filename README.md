@@ -6,7 +6,7 @@ I like *programming* specially **web develop**. I use severals technologies and 
 
 In the *Backend* I use
 
-- PHP with [Laravel Framework](https://laravel.com/) and its different official and third packages.
+- PHP with [Laravel Framework](https://laravel.com/) and its different official and third-party packages.
 - Node.js with [Express.js](https://expressjs.com/) and other Frameworks like [Adonis.js](https://adonisjs.com/) (*learning in progress*), this last one likes me because of its resemblance to **Laravel**
 
 In the *Frontend* I use
