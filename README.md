@@ -2,7 +2,7 @@
 
 I'm a Colombian mathematician of [Universidad Nacional de Colombia](https://unal.edu.co).
 
-I'd like *programming* specially **web develop**. I use severals technologies and languages for my projects and everyday i'm writing code and learning new tips.
+I like *programming* specially **web develop**. I use severals technologies and languages for my projects and everyday i'm writing code and learning new tips.
 
 In the *Backend* I use
 
