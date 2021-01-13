@@ -1,5 +1,3 @@
-# My profile
-
 I'm a Colombian mathematician of [Universidad Nacional de Colombia](https://unal.edu.co).
 
 I like *programming* specially **web develop**. I use severals technologies and languages for my projects and everyday i'm writing code and learning new tips.
@@ -17,8 +15,8 @@ In the *Frontend* I use
 
 ## Contributions
 In my spare time I like contribute to *open-source* packages like:
-- [Laravel Jetstream](https://github.com/laravel/jetstream) - Laravel Jetstream is a beautifully designed application scaffolding for Laravel
 - [Laravel Lang](https://github.com/Laravel-Lang/lang) - Translations for the Laravel Framework and its official packages. I help to maintain the Laravel translations to Spanish
+- [Laravel Jetstream](https://github.com/laravel/jetstream) - Laravel Jetstream is a beautifully designed application scaffolding for Laravel
 
 ## Contact me
 - [luisprmat@gmail.com](mailto:luisprmat@gmail.com)
