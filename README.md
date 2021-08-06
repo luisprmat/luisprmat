@@ -13,6 +13,9 @@ In the *Frontend* I use
 - [Vue.js](https://vuejs.org/)
 - I use CSS Frameworks like [Bootstrap](https://getbootstrap.com/) and *i'm learning* [Tailwind CSS](https://tailwindcss.com/) now powered by **Laravel**
 
+I am currently studying mobile application development with **Android** (Java 8+)
+
+
 ## Contributions
 In my spare time I like contribute to *open-source* packages like:
 - [Laravel Lang](https://github.com/Laravel-Lang/lang) - Translations for the Laravel Framework and its official packages. I help to maintain the Laravel translations to Spanish
