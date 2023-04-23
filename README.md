@@ -18,8 +18,8 @@ I am currently studying mobile application development with **Android** (Java 8+
 
 ## Contributions
 In my spare time I like contribute to *open-source* packages like:
-- [Laravel Lang](https://github.com/Laravel-Lang/lang) - Translations for the Laravel Framework and its official packages. I help to maintain the Laravel translations to Spanish
-- [Laravel Jetstream](https://github.com/laravel/jetstream) - Laravel Jetstream is a beautifully designed application scaffolding for Laravel
+- [Laravel Lang](https://github.com/Laravel-Lang/lang) - Translations for the Laravel Framework and its official packages. I help to maintain the Laravel translations to Spanish.
+
 
 ## Contact me
 - [luisprmat@gmail.com](mailto:luisprmat@gmail.com)
