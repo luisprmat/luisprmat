@@ -13,7 +13,9 @@ In the *Frontend* I use
 - [Vue.js](https://vuejs.org/)
 - I use CSS Frameworks like [Bootstrap](https://getbootstrap.com/) and *i'm learning* [Tailwind CSS](https://tailwindcss.com/) now powered by **Laravel**
 
-I am currently studying mobile application development with **Android** (Java 8+)
+I also like to use the TALL stack ([TailwindCSS](https://tailwindcss.com/), [Alpine JS](https://alpinejs.dev/), [Livewire](https://livewire.laravel.com/) and [Laravel](https://laravel.com/)) and the powerful [Filament](https://filamentphp.com/)
+
+I am currently studying mobile application development with **Flutter** (*Dart*) and  **Android** (Java 8+)
 
 
 ## Contributions
